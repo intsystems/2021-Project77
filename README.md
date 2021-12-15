@@ -13,7 +13,7 @@
 
 ### Requirements
 
-[Ссылка на requirements.txt](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/blob/master/code/requiremnts.txt)
+[Ссылка на requirements.txt](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/blob/master/code/requirements.txt)
 
 ### Код алгоритма
 
